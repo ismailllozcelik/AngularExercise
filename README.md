@@ -1,0 +1,2 @@
+# AngularExercise
+angular çalışma notlarım
